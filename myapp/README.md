@@ -1,8 +1,5 @@
 # myapp
 
-A new Flutter project.
+A basic Flutter project for [learningflutternet][1]
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[1]: learningflutter.net
